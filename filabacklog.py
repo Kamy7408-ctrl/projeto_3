@@ -24,7 +24,7 @@ class FilaBackLog:
     def tamanho(self):
         return len(self.dados)
     
-    def comtem(self, id):
+    def contem(self, id):
         for jogo in self.dados:
             if jogo.id_jogo == id:
                 return True

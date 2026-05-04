@@ -1,0 +1,5 @@
+565;Need for Speed: Shift;22.0;22.0;04/05/2026 15:49;concluído simbolicamente
+4654;Dragon Ball Z: Extreme Butoden;33.0;33.0;04/05/2026 15:49;concluído simbolicamente
+4654;Dragon Ball Z: Extreme Butoden;565.0;598.0;04/05/2026 15:49;concluído simbolicamente
+4654;Dragon Ball Z: Extreme Butoden;22.0;620.0;04/05/2026 15:49;concluído simbolicamente
+562;MX Unleashed;222.0;222.0;04/05/2026 15:49;concluído simbolicamente

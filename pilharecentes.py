@@ -6,7 +6,7 @@ class PilhaRecentes:
     def push(self, jogo):
         indice = -1
         for i in range(len(self.dados)):
-            if self.dados[i].id == jogo.id:
+            if self.dados[i].id_jogo == jogo.id_jogo:
                 indice = i
                 break
 
@@ -24,7 +24,7 @@ class PilhaRecentes:
     def topo(self):
         if self.is_empty():
             return None
-        return self.dados.pop[-1]
+        return self.dados[-1]
     
     def is_empty(self):
         return len(self.dados) == 0
